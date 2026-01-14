@@ -38,7 +38,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     )
 }
 
-//@Composableq
+//@Composable
 //fun Greeting(name: String, modifier: Modifier = Modifier) {
 //    Text(
 //        text = "Hello $name!",
